@@ -1,0 +1,20 @@
+{
+  "name": "munchbox-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mrtewogbade <johndharey@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "repository": "git@github.com:mrtewogbade/munchbox-BE.git",
+  "devDependencies": {
+    "@types/node": "^22.5.3",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
